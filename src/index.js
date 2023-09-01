@@ -3,6 +3,6 @@
 import init from './init.js';
 import './styles.scss';
 import 'bootstrap';
-import '@popperjs/core';
+// import '@popperjs/core';
 
 init();
