@@ -3,7 +3,6 @@ develop:
 
 install:
 	npm ci
-	npm audit fix
 
 build:
 	NODE_ENV=production npx webpack
